@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "three": "^0.171.0"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.13.3",
+    "@parcel/transformer-raw": "^2.13.3"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html"
+  }
+}
+
+
